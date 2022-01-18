@@ -1,5 +1,5 @@
-public class Stable {
+public class KthLargest {
     public static void main(String[] args){
-        
+
     }
 }
